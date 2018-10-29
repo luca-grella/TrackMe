@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.24)  24 OCT 2018 23:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.24)  28 OCT 2018 15:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -525,17 +525,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
 [5
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E7FA39F8F7DB3CDC363421FFCFA6F07E;183.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
  8816 strings out of 492971
