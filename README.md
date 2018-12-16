@@ -3,10 +3,12 @@
 ### A.Y. 2018-2019
 
 
-![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe")
-
 <p align="center">
 <img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo.png">
+Copyright © 2018
+Luca Grella
+Daniele Lunghi
+All rights reserved
 </p>
 
 
