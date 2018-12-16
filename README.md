@@ -3,11 +3,7 @@
 ### A.Y. 2018-2019
 
 
-\begin{center}
-\includegraphics[width=200pt, height = 125 pt]{https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png}
-\end{center}
-
-![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png "TrackMe")
+-> ![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe") <-
 
 
 #### The problem: TrackMe
@@ -22,12 +18,18 @@ Imagine now that, after some time, TrackMe realizes that a good part of its thir
 
 
 ##### RASD
+
 The Requirements analysis and specification document (RASD) contains the description of the scenarios, the use cases that describe them, and the models describing requirements and specification for the problem under consideration. You are to use a suitable mix of natural language, UML, and Alloy. UML and Alloy MUST be part of the documentation. You must also show that you used the Alloy tool for analysis, by reporting the models you obtained by using it. Of course, the initial written problem statement we provide suffers from the typical drawbacks of natural language descriptions: it is informal, incomplete, uses different terms for the same concepts, and the like. You may choose to solve the incompleteness and ambiguity as you wish, but be careful to clearly document the choices you make and the corresponding rationale. You will also include in the document information on the number of hours each group member has worked towards the fulfillment of this deadline. As a reference structure for your document, you should refer to the one reported below that is derived from the one suggested by IEEE.
 Please include in the document information about the effort spent by each group member for completing this document.
 
 [Our Requirements Analysis and Specification Document](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/RASD2.pdf)
 
-[Alloy Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
+
+##### ALLOY 
+
+[Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
+
+[Model](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloymodel.png)
 
 
 ##### DD
