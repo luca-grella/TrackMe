@@ -4,10 +4,10 @@
 
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo.png">
-Copyright © 2018
-Luca Grella
-Daniele Lunghi
+<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/img/logo.png"><br>
+Copyright © 2018<br>
+Luca Grella<br>
+Daniele Lunghi<br>
 All rights reserved
 </p>
 
