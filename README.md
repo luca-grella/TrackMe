@@ -3,7 +3,7 @@
 ### A.Y. 2018-2019
 
 
--> ![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe") <-
+->![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe")<-
 
 
 #### The problem: TrackMe
@@ -25,14 +25,13 @@ Please include in the document information about the effort spent by each group 
 [Our Requirements Analysis and Specification Document](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/RASD2.pdf)
 
 
-##### ALLOY 
-
-[Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
-
-[Model](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloymodel.png)
-
-
 ##### DD
 The Design document (DD) must contain a functional description of the system, and any other view you find useful to provide. You should use all the UML diagrams you need to provide a full description of the system. Alloy may also be useful, although its use is not mandatory here. You will also include information on the number of hours each group member has worked towards the fulfillment of this deadline.
 
 [Our Design Document](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/DD2.pdf)
+
+
+##### ALLOY 
+
+[Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
+[Model](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloymodel.png)
