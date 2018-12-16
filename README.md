@@ -10,10 +10,14 @@ As soon as a request for data is approved, TrackMe makes the previously saved da
 Imagine now that, after some time, TrackMe realizes that a good part of its third-party customers wants to use the data acquired through Data4Help to offer a personalized and non-intrusive SOS service to elderly people. Therefore, TrackMe decides to build a new service, called AutomatedSOS, on top of Data4Help. AutomatedSOS monitors the health status of the subscribed customers and, when such parameters are below certain thresholds, sends to the location of the customer an ambulance, guaranteeing a reaction time of less than 5 seconds from the time the parameters are below the threshold.
 
 
-##### Assignment1-RASD
+##### RASD
 The Requirements analysis and specification document (RASD) contains the description of the scenarios, the use cases that describe them, and the models describing requirements and specification for the problem under consideration. You are to use a suitable mix of natural language, UML, and Alloy. UML and Alloy MUST be part of the documentation. You must also show that you used the Alloy tool for analysis, by reporting the models you obtained by using it. Of course, the initial written problem statement we provide suffers from the typical drawbacks of natural language descriptions: it is informal, incomplete, uses different terms for the same concepts, and the like. You may choose to solve the incompleteness and ambiguity as you wish, but be careful to clearly document the choices you make and the corresponding rationale. You will also include in the document information on the number of hours each group member has worked towards the fulfillment of this deadline. As a reference structure for your document, you should refer to the one reported below that is derived from the one suggested by IEEE.
 Please include in the document information about the effort spent by each group member for completing this document.
 
+Requirements Analysis and Specification Document (https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/RASD2.pdf)
 
-##### Assignment2-DD
+
+##### DD
 The Design document (DD) must contain a functional description of the system, and any other view you find useful to provide. You should use all the UML diagrams you need to provide a full description of the system. Alloy may also be useful, although its use is not mandatory here. You will also include information on the number of hours each group member has worked towards the fulfillment of this deadline.
+
+Design Document (https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/DD2.pdf)
