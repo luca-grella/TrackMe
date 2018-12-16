@@ -1,12 +1,12 @@
 <p align="center">
-<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo/logo.png"><br>
+<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo/logo.png"><br><br>
 Software Engineering 2 Project<br>
 A.Y. 2018-2019<br>
 Authors: Luca Grella & Daniele Lunghi<br>
 Copyright © 2018<br>
 All rights reserved
 </p>
-
+<br>
 
 # The problem: TrackMe
 TrackMe is a company that wants to develop a software-based service allowing third parties to monitor the location and health status of individuals. This service is called Data4Help. The service supports the registration of individuals who, by registering, agree that TrackMe acquires their data (data acquisition can happen through smartwatches or similar devices). Also, it supports the registration of third parties. After registration, these third parties can request:
