@@ -3,6 +3,10 @@
 ### A.Y. 2018-2019
 
 
+\begin{center}
+\includegraphics[width=200pt, height = 125 pt]{https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png}
+\end{center}
+
 ![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png "TrackMe")
 
 
@@ -22,6 +26,8 @@ The Requirements analysis and specification document (RASD) contains the descrip
 Please include in the document information about the effort spent by each group member for completing this document.
 
 [Our Requirements Analysis and Specification Document](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/RASD2.pdf)
+
+[Alloy Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
 
 
 ##### DD
