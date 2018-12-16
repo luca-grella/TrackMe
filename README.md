@@ -1,10 +1,11 @@
+<p align="center"> 
 # TrackMe
 ## Software Engineering 2 Project
 ### A.Y. 2018-2019
-
+</p>
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/img/logo.png"><br>
+<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo/logo.png"><br>
 Copyright © 2018<br>
 Luca Grella<br>
 Daniele Lunghi<br>
