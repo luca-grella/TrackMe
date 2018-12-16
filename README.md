@@ -2,7 +2,7 @@
 ## Software Engineering 2 Project
 ### A.Y. 2018-2019
 
-Authors: Luca Grella and Daniele Lunghi
+![logo]([http://i65.tinypic.com/2uzttv7.jpg)
 
 #### The problem: TrackMe
 TrackMe is a company that wants to develop a software-based service allowing third parties to monitor the location and health status of individuals. This service is called Data4Help. The service supports the registration of individuals who, by registering, agree that TrackMe acquires their data (data acquisition can happen through smartwatches or similar devices). Also, it supports the registration of third parties. After registration, these third parties can request:
