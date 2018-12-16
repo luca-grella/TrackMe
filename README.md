@@ -2,7 +2,9 @@
 ## Software Engineering 2 Project
 ### A.Y. 2018-2019
 
-![TrackMe]([https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png)
+
+![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/docs/img/logo1.png "TrackMe")
+
 
 #### The problem: TrackMe
 TrackMe is a company that wants to develop a software-based service allowing third parties to monitor the location and health status of individuals. This service is called Data4Help. The service supports the registration of individuals who, by registering, agree that TrackMe acquires their data (data acquisition can happen through smartwatches or similar devices). Also, it supports the registration of third parties. After registration, these third parties can request:
