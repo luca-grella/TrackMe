@@ -3,7 +3,11 @@
 ### A.Y. 2018-2019
 
 
-->![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe")<-
+![TrackMe](https://github.com/luca-grella/LunghiGrella/blob/master/logo.png "TrackMe")
+
+<p align="center">
+<img width="400" height="400" src="https://github.com/luca-grella/LunghiGrella/blob/master/logo.png">
+</p>
 
 
 #### The problem: TrackMe
