@@ -38,3 +38,14 @@ The Design document (DD) must contain a functional description of the system, an
 [Code](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloy.als)
 
 [Model](https://github.com/luca-grella/LunghiGrella/blob/master/DeliveryFolder/Alloymodel.png)
+
+
+## PRESENTATION
+
+[PDF Version](https://github.com/luca-grella/LunghiGrella/blob/master/Presentation/SE2Presentation.pdf)
+
+[KeyNote Version](https://github.com/luca-grella/LunghiGrella/blob/master/Presentation/SE2Presentation.key)
+
+[PowerPoint Version](https://github.com/luca-grella/LunghiGrella/blob/master/Presentation/SE2Presentation.pptx)
+
+[Older PowerPoint Version](https://github.com/luca-grella/LunghiGrella/blob/master/Presentation/SE2Presentation.ppt)
